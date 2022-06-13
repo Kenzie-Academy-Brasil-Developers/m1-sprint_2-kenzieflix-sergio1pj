@@ -71,6 +71,11 @@ main{
     object-fit: cover;
 }
 
+.users-wrapper .user-card:hover .user-card-image svg path{
+    border: 1.5px solid #fff;
+    stroke:#fff;
+}
+
 .users-wrapper .user-card p{
     font-size: 14px;
     font-weight: 600;
