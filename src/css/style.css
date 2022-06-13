@@ -53,6 +53,7 @@ main{
     border-radius: 8px;
     background:#1e1e20;
     overflow: hidden;
+    transition: 0.3s ease;
 }
 
 .users-wrapper .user-card:hover .user-card-image{
@@ -98,6 +99,7 @@ main button{
     color: #fff;
     line-height:21px;
     text-align: center;
+    transition: 0.3s ease;
 }
 
 main button:hover{
