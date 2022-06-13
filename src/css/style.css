@@ -72,7 +72,6 @@ main{
 }
 
 .users-wrapper .user-card:hover .user-card-image svg path{
-    border: 1.5px solid #fff;
     stroke:#fff;
 }
 
