@@ -29,6 +29,7 @@ main{
     flex-direction: column;
     align-items: center;
     gap: 102px;
+    margin-bottom: 88px;
 }
 
 .users-wrapper{
